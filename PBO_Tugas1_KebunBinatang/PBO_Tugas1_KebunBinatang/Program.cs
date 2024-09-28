@@ -82,7 +82,7 @@ class Gajah : Mamalia
 
     public override string Suara()
     {
-        return "Gajah MMMMBRRRRRRRR gatau sauranya lek.";
+        return "Gajah MMMMBRRRRRRRR gatau suaranya lek";
     }
 }
 
@@ -92,7 +92,7 @@ class Ular : Reptil
 
     public override string Suara()
     {
-        return "Ular bersuara 'xixixixixixixixixixi'.";
+        return "Ular bersuara 'xixixixixixixixixixi'";
     }
 
     public void Merayap()
